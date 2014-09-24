@@ -1,6 +1,18 @@
+# Amazon S3
 AWS_KEY = ''
 AWS_SECRET_KEY = ''
 BUCKET_NAME = 'bucket-name' # The bucket containing camera data
+
+# Rackspace Cloud Files
+SWIFT_KEY = ''
+SWIFT_SECRET_KEY = ''
+CONTAINER_NAME = '' # The container containing camera data
+
+# Google Drive
+DRV_KEY = ''
+DRV_SECRET_KEY = ''
+FOLDER_NAME = ''
+
 
 APP_SECRET_KEY = 'secretkeyhere'
 APP_DEBUG = True
